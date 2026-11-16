@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Ritim Kreatif: marka stratejisi, kimlik, kampanya ve içerik üretimi yapan kurgusal bir editoryal ajans. Demo site; içerik kurgusaldır.",
+    "en": "Ritim Kreatif: a fictional editorial agency for brand strategy, identity, campaigns and content production. Demo site; content is fictional.",
+    "ar": "ريتيم كرييتيف: وكالة تحريرية افتراضية لاستراتيجية العلامة والهوية والحملات وإنتاج المحتوى. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "kreatif ajans, marka stratejisi, kurumsal kimlik, kampanya, içerik üretimi",
+    "en": "creative agency, brand strategy, corporate identity, campaign, content production",
+    "ar": "وكالة إبداعية، استراتيجية العلامة، الهوية المؤسسية، حملة، إنتاج المحتوى"
+  },
+  "category": "Kurumsal",
+  "name": "Ritim Kreatif",
+  "domain": "ajans-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "rubik",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#3A2FD1",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "0px",
+    "--mx-radius-md": "0px",
+    "--mx-radius-lg": "0px",
+    "--mx-radius-xl": "0px"
+  },
+  "icon": "icon.png"
+}

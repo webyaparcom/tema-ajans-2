@@ -1,0 +1,41 @@
+{
+  "id": "vyvfjzh717",
+  "name": {
+    "tr": "Vakalar",
+    "en": "Cases",
+    "ar": "الحالات"
+  },
+  "description": {
+    "tr": "Kurgusal markalar için önce/sonra vaka dosyaları.",
+    "en": "Before/after case files for fictional brands.",
+    "ar": "ملفات حالات قبل وبعد لعلامات افتراضية."
+  },
+  "keyword": {
+    "tr": "referans, müşteri yorumu",
+    "en": "reference, review",
+    "ar": "مرجع، تقييم"
+  },
+  "path": "referanslar",
+  "icon": "stars",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "3ooa9p",
+      "jnuzmb",
+      "rj6qfp"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Vakalar",
+    "en": "Cases",
+    "ar": "الحالات"
+  },
+  "date": "2026-11-16T11:22:52.587Z",
+  "update": "2026-11-16T11:37:24.556Z"
+}

@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Stüdyo",
+    "en": "Studio",
+    "ar": "الاستوديو"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "y71leu",
+      "sndybh"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Strateji, kimlik ve kampanya; aynı ritimde.",
+    "en": "Strategy, identity and campaigns, in one rhythm.",
+    "ar": "الاستراتيجية والهوية والحملات بإيقاع واحد."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Stüdyo",
+    "en": "Studio",
+    "ar": "الاستوديو"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T11:37:24.549Z",
+  "date": "2026-10-30"
+}
