@@ -1,0 +1,39 @@
+{
+  "id": "hvib549u9s",
+  "name": {
+    "tr": "Brief gönder",
+    "en": "Send a brief",
+    "ar": "أرسل موجزًا"
+  },
+  "description": {
+    "tr": "Brief formu (demo).",
+    "en": "Brief form (demo).",
+    "ar": "نموذج الموجز (تجريبي)."
+  },
+  "keyword": {
+    "tr": "teklif",
+    "en": "quote",
+    "ar": "عرض سعر"
+  },
+  "path": "teklif-al",
+  "icon": "request_quote",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "rj6qfp"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Brief gönder",
+    "en": "Send a brief",
+    "ar": "أرسل موجزًا"
+  },
+  "date": "2026-11-16T11:22:52.592Z",
+  "update": "2026-11-16T11:37:24.559Z"
+}

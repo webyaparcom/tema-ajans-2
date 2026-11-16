@@ -1,0 +1,41 @@
+{
+  "id": "h7tgdh00sg",
+  "name": {
+    "tr": "Yaklaşım",
+    "en": "Approach",
+    "ar": "منهجنا"
+  },
+  "description": {
+    "tr": "Çalışma prensipleri ve proje takvimi.",
+    "en": "Working principles and project timeline.",
+    "ar": "مبادئ العمل والجدول الزمني للمشروع."
+  },
+  "keyword": {
+    "tr": "Çalışma prensipleri",
+    "en": "Working principles",
+    "ar": "مبادئ العمل"
+  },
+  "path": "hizmetler",
+  "icon": "work",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "mnthsx",
+      "sndybh",
+      "rj6qfp"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Yaklaşım",
+    "en": "Approach",
+    "ar": "منهجنا"
+  },
+  "date": "2026-11-16T11:22:52.574Z",
+  "update": "2026-11-16T11:37:24.546Z"
+}
