@@ -3,17 +3,23 @@
   "name": {
     "tr": "Vakalar",
     "en": "Cases",
-    "ar": "الحالات"
+    "ar": "الحالات",
+    "de": "Fallstudien",
+    "ru": "Кейсы"
   },
   "description": {
     "tr": "Kurgusal markalar için önce/sonra vaka dosyaları.",
     "en": "Before/after case files for fictional brands.",
-    "ar": "ملفات حالات قبل وبعد لعلامات افتراضية."
+    "ar": "ملفات حالات قبل وبعد لعلامات افتراضية.",
+    "de": "Vorher-nachher-Fallakten für fiktive Marken.",
+    "ru": "Кейсы «до и после» для вымышленных брендов."
   },
   "keyword": {
     "tr": "referans, müşteri yorumu",
     "en": "reference, review",
-    "ar": "مرجع، تقييم"
+    "ar": "مرجع، تقييم",
+    "de": "Referenz, Kundenbewertung",
+    "ru": "рекомендация, отзыв клиента"
   },
   "path": "referanslar",
   "icon": "stars",
@@ -34,7 +40,9 @@
   "title": {
     "tr": "Vakalar",
     "en": "Cases",
-    "ar": "الحالات"
+    "ar": "الحالات",
+    "de": "Fallstudien",
+    "ru": "Кейсы"
   },
   "date": "2026-11-16T11:22:52.587Z",
   "update": "2026-11-16T11:37:24.556Z"

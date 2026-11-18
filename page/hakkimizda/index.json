@@ -2,7 +2,9 @@
   "name": {
     "tr": "Stüdyo",
     "en": "Studio",
-    "ar": "الاستوديو"
+    "ar": "الاستوديو",
+    "de": "Studio",
+    "ru": "Студия"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Strateji, kimlik ve kampanya; aynı ritimde.",
     "en": "Strategy, identity and campaigns, in one rhythm.",
-    "ar": "الاستراتيجية والهوية والحملات بإيقاع واحد."
+    "ar": "الاستراتيجية والهوية والحملات بإيقاع واحد.",
+    "de": "Strategie, Identität und Kampagne; im selben Rhythmus.",
+    "ru": "Стратегия, айдентика и кампания; в одном ритме."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Stüdyo",
     "en": "Studio",
-    "ar": "الاستوديو"
+    "ar": "الاستوديو",
+    "de": "Studio",
+    "ru": "Студия"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T11:37:24.549Z",
