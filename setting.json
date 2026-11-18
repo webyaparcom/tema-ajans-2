@@ -4,12 +4,16 @@
   "description": {
     "tr": "Ritim Kreatif: marka stratejisi, kimlik, kampanya ve içerik üretimi yapan kurgusal bir editoryal ajans. Demo site; içerik kurgusaldır.",
     "en": "Ritim Kreatif: a fictional editorial agency for brand strategy, identity, campaigns and content production. Demo site; content is fictional.",
-    "ar": "ريتيم كرييتيف: وكالة تحريرية افتراضية لاستراتيجية العلامة والهوية والحملات وإنتاج المحتوى. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "ريتيم كرييتيف: وكالة تحريرية افتراضية لاستراتيجية العلامة والهوية والحملات وإنتاج المحتوى. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Ritim Kreatif: eine fiktive Agentur für Markenstrategie, Identität, Kampagnen und Content-Erstellung. Demo-Website; Inhalte sind fiktiv.",
+    "ru": "Ritim Kreatif: вымышленное агентство по стратегии бренда, айдентике, кампаниям и созданию контента. Демо-сайт; контент вымышленный."
   },
   "keyword": {
     "tr": "kreatif ajans, marka stratejisi, kurumsal kimlik, kampanya, içerik üretimi",
     "en": "creative agency, brand strategy, corporate identity, campaign, content production",
-    "ar": "وكالة إبداعية، استراتيجية العلامة، الهوية المؤسسية، حملة، إنتاج المحتوى"
+    "ar": "وكالة إبداعية، استراتيجية العلامة، الهوية المؤسسية، حملة، إنتاج المحتوى",
+    "de": "kreative Agentur, Markenstrategie, Corporate Identity, Kampagne, Content-Erstellung",
+    "ru": "креативное агентство, стратегия бренда, корпоративный айдентик, кампания, создание контента"
   },
   "category": "Kurumsal",
   "name": "Ritim Kreatif",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

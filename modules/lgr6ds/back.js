@@ -11,10 +11,10 @@ try {
         if (page.path == iterator.path) {
           backhtml += `<a class="modulex-menu-list-active" href="${wxLangInternalHref(
             iterator.path,
-          )}">${iterator.name[json.lang]}</a>`;
+          )}">${wmPickLang(iterator.name, json.lang)}</a>`;
         } else {
           backhtml += `<a href="${wxLangInternalHref(iterator.pathnext || iterator.path)}">${
-            iterator.name[json.lang]
+            wmPickLang(iterator.name, json.lang)
           }</a>`;
         }
       }
@@ -43,7 +43,11 @@ try {
       var langUrl = wxLangHref(key, currentPagePath || "");
       var langText = langNames[key.toUpperCase()] || key.toUpperCase();
       var isActive = json.lang === key ? "modulex-lang-active" : "";
-      langhtml += `<div class="modulexlanguages-mobile-item"><a class="${isActive}" href="${langUrl}" hreflang="${key}" lang="${key}"${json.lang === key ? ' aria-current="true"' : ""}>${langText}</a></div>`; /* G1: hreflang */
+      /* 17 Kas 2026 (Emir A, szj9): eskiden <div class="…-item"> basılıyordu → şablonun <ul>'ü içinde ul > div > a; mx-ui.js
+         mxLangDd yalnız ul > li > a[hreflang] tanır, 24 dil açılır listeye dönmeden 1440'ta 2083 px'e taşıyordu.
+         Artık <li> (mxLangDd >4 dilde açılır listeye çevirir). */
+      /* Tur 3 (B3): wmLangLi değil — eski öğe biçimi bire bir (sınıf, a.modulex-lang-active, title yok), yalnız div → li */
+      langhtml += `<li class="modulexlanguages-mobile-item"><a class="${isActive}" href="${langUrl}" hreflang="${key}" lang="${key}"${json.lang === key ? ' aria-current="true"' : ""}>${langText}</a></li>`;
     }
   }
   // Eğer sadece 1 dil varsa dil seçiciyi gösterme
@@ -56,7 +60,7 @@ try {
   var backimglist = "";
   for (var i = 0; i < json.data.length; i++) {
     var loadingAttr = i === 0 ? "" : 'loading="lazy"';
-    backimglist += `<div class="swiper-slide"><img ${loadingAttr} src="/img/${json.id}/${json.data[i]["img"]}?v=${Date.now()}" alt="{{web-name}}" /></div>`;
+    backimglist += `<div class="swiper-slide"><img ${loadingAttr} src="/img/${json.id}/${json.data[i]["img"]}?v={{random}}" alt="{{web-name}}" /></div>`;
   }
   html = html.replace(new RegExp("{{imglist}}", "g"), backimglist);
 } catch (error) {

@@ -3,17 +3,23 @@
   "name": {
     "tr": "Yaklaşım",
     "en": "Approach",
-    "ar": "منهجنا"
+    "ar": "منهجنا",
+    "de": "Ansatz",
+    "ru": "Подход"
   },
   "description": {
     "tr": "Çalışma prensipleri ve proje takvimi.",
     "en": "Working principles and project timeline.",
-    "ar": "مبادئ العمل والجدول الزمني للمشروع."
+    "ar": "مبادئ العمل والجدول الزمني للمشروع.",
+    "de": "Arbeitsprinzipien und Projektkalender.",
+    "ru": "Принципы работы и календарь проектов."
   },
   "keyword": {
     "tr": "Çalışma prensipleri",
     "en": "Working principles",
-    "ar": "مبادئ العمل"
+    "ar": "مبادئ العمل",
+    "de": "Arbeitsprinzipien",
+    "ru": "Принципы работы"
   },
   "path": "hizmetler",
   "icon": "work",
@@ -34,7 +40,9 @@
   "title": {
     "tr": "Yaklaşım",
     "en": "Approach",
-    "ar": "منهجنا"
+    "ar": "منهجنا",
+    "de": "Ansatz",
+    "ru": "Подход"
   },
   "date": "2026-11-16T11:22:52.574Z",
   "update": "2026-11-16T11:37:24.546Z"

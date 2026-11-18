@@ -5,12 +5,16 @@
       "name": {
         "tr": "Yaklaşım",
         "en": "Approach",
-        "ar": "منهجنا"
+        "ar": "منهجنا",
+        "de": "Ansatz",
+        "ru": "Подход"
       },
       "description": {
         "tr": "Çalışma prensipleri ve proje takvimi.",
         "en": "Working principles and project timeline.",
-        "ar": "مبادئ العمل والجدول الزمني للمشروع."
+        "ar": "مبادئ العمل والجدول الزمني للمشروع.",
+        "de": "Arbeitsprinzipien und Projektkalender.",
+        "ru": "Принципы работы и календарь проектов."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -31,7 +35,9 @@
       "name": {
         "tr": "Stüdyo",
         "en": "Studio",
-        "ar": "الاستوديو"
+        "ar": "الاستوديو",
+        "de": "Studio",
+        "ru": "Студия"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -52,7 +58,9 @@
       "description": {
         "tr": "Strateji, kimlik ve kampanya; aynı ritimde.",
         "en": "Strategy, identity and campaigns, in one rhythm.",
-        "ar": "الاستراتيجية والهوية والحملات بإيقاع واحد."
+        "ar": "الاستراتيجية والهوية والحملات بإيقاع واحد.",
+        "de": "Strategie, Identität und Kampagne; im selben Rhythmus.",
+        "ru": "Стратегия, айдентика и кампания; в одном ритме."
       }
     },
     {
@@ -60,12 +68,16 @@
       "name": {
         "tr": "Ekip",
         "en": "Team",
-        "ar": "الفريق"
+        "ar": "الفريق",
+        "de": "Team",
+        "ru": "Команда"
       },
       "description": {
         "tr": "Sizi karşılayan çalışanlarımız.",
         "en": "The staff who welcomes you.",
-        "ar": "الموظفون الذين يستقبلونكم."
+        "ar": "الموظفون الذين يستقبلونكم.",
+        "de": "Unsere Mitarbeiter, die Sie empfangen.",
+        "ru": "Наши сотрудники, которые вас встретят."
       },
       "path": "ekip",
       "icon": "groups",
@@ -86,12 +98,16 @@
       "name": {
         "tr": "Vakalar",
         "en": "Cases",
-        "ar": "الحالات"
+        "ar": "الحالات",
+        "de": "Fallstudien",
+        "ru": "Кейсы"
       },
       "description": {
         "tr": "Kurgusal markalar için önce/sonra vaka dosyaları.",
         "en": "Before/after case files for fictional brands.",
-        "ar": "ملفات حالات قبل وبعد لعلامات افتراضية."
+        "ar": "ملفات حالات قبل وبعد لعلامات افتراضية.",
+        "de": "Vorher-nachher-Fallakten für fiktive Marken.",
+        "ru": "Кейсы «до и после» для вымышленных брендов."
       },
       "path": "referanslar",
       "icon": "stars",
@@ -113,12 +129,16 @@
       "name": {
         "tr": "Brief gönder",
         "en": "Send a brief",
-        "ar": "أرسل موجزًا"
+        "ar": "أرسل موجزًا",
+        "de": "Brief senden",
+        "ru": "Отправить бриф"
       },
       "description": {
         "tr": "Brief formu (demo).",
         "en": "Brief form (demo).",
-        "ar": "نموذج الموجز (تجريبي)."
+        "ar": "نموذج الموجز (تجريبي).",
+        "de": "Brief-Formular (Demo).",
+        "ru": "Форма брифа (демо)."
       },
       "path": "teklif-al",
       "icon": "request_quote",
@@ -137,7 +157,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -157,7 +179,9 @@
       "description": {
         "tr": "Adres, telefon ve çalışma saatleri.",
         "en": "Address, phone and opening hours.",
-        "ar": "العنوان والهاتف وساعات العمل."
+        "ar": "العنوان والهاتف وساعات العمل.",
+        "de": "Adresse, Telefon und Öffnungszeiten.",
+        "ru": "Адрес, телефон и часы работы."
       }
     }
   ],
